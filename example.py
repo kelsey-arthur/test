@@ -1,3 +1,3 @@
 #my new file of code
 
-print("hello world") 
+print("hello class") 
