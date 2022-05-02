@@ -1,4 +1,4 @@
-#Portfolio
+##Portfolio
 
 Please view my [LinkedIn](https://www.linkedin.com/in/kelsey-arthur/)
 
